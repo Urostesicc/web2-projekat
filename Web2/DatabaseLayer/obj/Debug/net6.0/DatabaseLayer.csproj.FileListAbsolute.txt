@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.deps.json
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.runtimeconfig.json
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.dll
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\Common.dll
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\bin\Debug\net6.0\Common.pdb
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CopyComplete
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.dll
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\refint\DatabaseLayer.dll
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.pdb
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.genruntimeconfig.cache
+C:\Users\HP\Downloads\webprojekat-master\webprojekat-master\BE\DatabaseLayer\obj\Debug\net6.0\ref\DatabaseLayer.dll
